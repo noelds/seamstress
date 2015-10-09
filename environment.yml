@@ -1,0 +1,6 @@
+name: seamstress
+dependencies:
+- python=3.4.*
+- numpy=1.9.*
+- matplotlib
+- scikit-image
